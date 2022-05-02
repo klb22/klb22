@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kendall
-- 👀 I’m interested in running and traveling
-- 🌱 I’m currently learning JavaScript
+- 👀 I enjoy running and traveling
+- 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me @ burns.kendall1@gmail.com
 
 <!---
