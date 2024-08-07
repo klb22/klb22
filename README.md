@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kendall
 - 👀 I enjoy running and traveling
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently earning my M.S. in Human-Computer Interaction
 - 📫 Reach me @ burns.kendall1@gmail.com
 
 <!---
